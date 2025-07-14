@@ -1,1 +1,1 @@
-# JS-project
+# JS-project/Password-Generator
